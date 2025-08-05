@@ -1,0 +1,1 @@
+"""Utility functions and database operations for BAR-COIN application.""" 

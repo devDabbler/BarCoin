@@ -1,0 +1,1 @@
+"""Streamlit UI components for BAR-COIN application.""" 
